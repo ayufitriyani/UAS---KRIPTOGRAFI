@@ -7,8 +7,8 @@ dengan TEXT  adalah : "SELAMAT DAN SUKSES UJIAN AKHIR SEMESTER GASAL 2022-2023"
 # PROSES CMD
 <img src="Pemanggilan CMD.png" img>
 
-# TEXT YANG DI ENKRIPSI
+# HASIL ENKRIPSI
 <img src="Hasil Enkrip.png" img>
 
-# HASIL ENKRIPSI
+# HASIL DEKRIPSI
 <img src="Hasil Dekrip.png" img>
