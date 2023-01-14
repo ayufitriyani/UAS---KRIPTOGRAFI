@@ -5,10 +5,10 @@ membuat codingan Program dengan menggunakan XOR untuk Enkripsi dan Dekripsi
 dengan TEXT  adalah : "SELAMAT DAN SUKSES UJIAN AKHIR SEMESTER GASAL 2022-2023"
 
 # PROSES CMD
-<img src="" img>
+<img src="Pemanggilan CMD.png" img>
 
 # TEXT YANG DI ENKRIPSI
-<img src="Text.png" img>
+<img src="" img>
 
 # HASIL ENKRIPSI
 <img src="hasil enkripsi.png" img>
