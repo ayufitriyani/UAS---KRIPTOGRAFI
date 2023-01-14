@@ -11,4 +11,4 @@ dengan TEXT  adalah : "SELAMAT DAN SUKSES UJIAN AKHIR SEMESTER GASAL 2022-2023"
 <img src="Hasil Enkrip.png" img>
 
 # HASIL ENKRIPSI
-<img src="" img>
+<img src="Hasil Dekrip.png" img>
