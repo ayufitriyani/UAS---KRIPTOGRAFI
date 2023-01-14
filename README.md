@@ -1,8 +1,8 @@
 # UAS KRIPTOGRAFI
 
-Nama  : Ayu Fitriyani
-Nim   : 312010310
-Kelas : TI.20.D4
+# Nama  : Ayu Fitriyani
+# Nim   : 312010310
+# Kelas : TI.20.D4
 
 membuat codingan Program dengan menggunakan XOR untuk Enkripsi dan Dekripsi
 
